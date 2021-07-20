@@ -1,0 +1,11 @@
+﻿  lab_9_vs.cpp
+D:\Dev\asm_lab\lab_9_vs\lab_9_vs.cpp(141,15): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+D:\Dev\asm_lab\lab_9_vs\lab_9_vs.cpp(142,13): warning C4244: инициализация: преобразование "int" в "float", возможна потеря данных
+D:\Dev\asm_lab\lab_9_vs\lab_9_vs.cpp(143,13): warning C4244: инициализация: преобразование "int" в "float", возможна потеря данных
+D:\Dev\asm_lab\lab_9_vs\lab_9_vs.cpp(144,13): warning C4244: инициализация: преобразование "int" в "float", возможна потеря данных
+  Создание кода
+  7 of 28 functions (25.0%) were compiled, the rest were copied from previous compilation.
+    1 functions were new in current compilation
+    3 functions had inline decision re-evaluated but remain unchanged
+  Создание кода завершено
+  lab_9_vs.vcxproj -> D:\Dev\asm_lab\lab_9_vs\Release\lab_9_vs.exe

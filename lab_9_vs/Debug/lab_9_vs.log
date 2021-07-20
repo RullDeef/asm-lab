@@ -1,0 +1,8 @@
+﻿  lab_9_vs.cpp
+D:\Dev\asm_lab\lab_9_vs\lab_9_vs.cpp(157,15): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+D:\Dev\asm_lab\lab_9_vs\lab_9_vs.cpp(165,41): warning C4244: аргумент: преобразование "long double" в "float", возможна потеря данных
+D:\Dev\asm_lab\lab_9_vs\lab_9_vs.cpp(165,38): warning C4244: аргумент: преобразование "long double" в "float", возможна потеря данных
+D:\Dev\asm_lab\lab_9_vs\lab_9_vs.cpp(165,35): warning C4244: аргумент: преобразование "long double" в "float", возможна потеря данных
+D:\Dev\asm_lab\lab_9_vs\lab_9_vs.cpp(174,45): warning C4244: аргумент: преобразование "long double" в "float", возможна потеря данных
+D:\Dev\asm_lab\lab_9_vs\lab_9_vs.cpp(174,42): warning C4244: аргумент: преобразование "long double" в "float", возможна потеря данных
+D:\Dev\asm_lab\lab_9_vs\lab_9_vs.cpp(174,39): warning C4244: аргумент: преобразование "long double" в "float", возможна потеря данных

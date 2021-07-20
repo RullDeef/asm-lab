@@ -1,0 +1,7 @@
+﻿  Assembling copy_string.asm...
+copy_string.asm(1): error A2008: syntax error : .
+copy_string.asm(2): error A2008: syntax error : .
+copy_string.asm(6): error A2008: syntax error : .
+copy_string.asm(10): error A2070: invalid instruction operands
+copy_string.asm(31): error A2070: invalid instruction operands
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\BuildCustomizations\masm.targets(70,5): error MSB3721: выход из команды "ml64.exe /c /nologo /Zi /Fo"x64\Debug\copy_string.obj" /W3 /errorReport:prompt  /Tacopy_string.asm" с кодом "1".

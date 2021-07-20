@@ -1,0 +1,2 @@
+D:\Dev\asm_lab\lab_9_vs\Debug\lab_9_vs.exe
+D:\Dev\asm_lab\lab_9_vs\Debug\lab_9_vs.pdb

@@ -1,0 +1,2 @@
+D:\Dev\asm_lab\lab_8\Debug\lab_8.exe
+D:\Dev\asm_lab\lab_8\Debug\lab_8.pdb

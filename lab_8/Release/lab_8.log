@@ -1,0 +1,8 @@
+﻿  Assembling copy_string.asm...
+  lab_8.cpp
+  Previous IPDB not found, fall back to full compilation.
+  Создание кода
+  All 12 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Создание кода завершено
+copy_string.obj : error LNK2026: небезопасный модуль для образа SAFESEH.
+D:\Dev\asm_lab\lab_8\Release\lab_8.exe : fatal error LNK1281: Не удается создать образ SAFESEH.
